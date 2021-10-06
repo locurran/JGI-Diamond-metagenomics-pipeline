@@ -1,9 +1,9 @@
-# locurran-JGI-Diamond-metagenomics-pipeline
+# JGI-Diamond-metagenomics-pipeline
 viral metagenomics pipeline
 
 The sequence of scripts represents a partially-complete adaptation of the metagenomics pipeline developed by the Metagenome Project at the DOE Joint Genome Institute. Helper scripts run supporting software.
 
-Additional documentation is forthcoming!
+Our team did shift to another pipeline after finding that our contigs were too short for this one.
 
 ### References
 
